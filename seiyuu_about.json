@@ -1,0 +1,86 @@
+{
+    "nagomi": {
+        "name": "西條和",
+        "brithday": "7月25號",
+        "bloodgroup": "B型",
+        "height": 157,
+        "background": "日本兵库县"
+    },
+    "mei": {
+        "name": "花川芽衣",
+        "brithday": "6月8號",
+        "bloodgroup": "O型",
+        "height": 156,
+        "background": "日本青森縣"
+    },
+    "uta": {
+        "name": "河瀬詩",
+        "brithday": "2月27號",
+        "bloodgroup": "O型",
+        "height": "未知",
+        "background": "日本北海道"
+    },
+    "mizuwa": {
+        "name": "倉岡水巴",
+        "brithday": "6月21號",
+        "bloodgroup": "O型",
+        "height": "未知",
+        "background": "日本滋賀縣"
+    },
+    "sally": {
+        "name": "天城サリー",
+        "brithday": "4月26號",
+        "bloodgroup": "B型",
+        "height": 165,
+        "background": "美國洛杉磯"
+    },
+    "chiharu": {
+        "name": "帆風千春",
+        "brithday": "4月10號",
+        "bloodgroup": "O型",
+        "height": 158,
+        "background": "日本兵庫縣神戶市"
+    },
+    "reina": {
+        "name": "宮瀬玲奈",
+        "brithday": "5月26號",
+        "bloodgroup": "A型",
+        "height": "未知",
+        "background": "日本福岡縣"
+    },
+    "ruri": {
+        "name": "海乃るり",
+        "brithday": "8月8號",
+        "bloodgroup": "A型",
+        "height": 167,
+        "background": "日本東京都"
+    },
+    "kanae": {
+        "name": "白沢かなえ",
+        "brithday": "7月18號",
+        "bloodgroup": "O型",
+        "height": 162,
+        "background": "日本佐贺县"
+    },
+    "moe": {
+        "name": "涼花萌",
+        "brithday": "12月28號",
+        "bloodgroup": "A型",
+        "height": "未知",
+        "background": "日本京都府"
+    },
+    "urara": {
+        "name": "高辻麗",
+        "brithday": "4月9號",
+        "bloodgroup": "A型",
+        "height": 160,
+        "background": "日本千叶县"
+    },
+    "aina": {
+        "name": "武田愛奈",
+        "brithday": "3月5號",
+        "bloodgroup": "A型",
+        "height": 162,
+        "background": "日本千葉縣"
+    }
+}
